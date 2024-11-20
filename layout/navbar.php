@@ -11,7 +11,7 @@
                 </button>
 
                 <!-- Logo -->
-                <a href="#" class="flex items-center border-r-2 flex-col pr-6">
+                <a href="#" class="flex items-center max-[400px]:ml-5 md:border-r-2 min-[400px]:border-0 flex-col md:pr-6 ">
                 <h1 class="text-[23px]  bg-gradient-to-tr text-transparent from-[#00bCF2] to-[#BAD80A] bg-clip-text ml-2 text-center font-bold ">FORUM WARGA</h1>
                 <h1 class="text-sm text-center font-bold ">RW 03 | Desa Sukagiri</h1>
                 </a>
@@ -21,7 +21,7 @@
 
             </div>
 
-            <div class="flex items-center gap-3 lg:order-2">
+            <div class="flex items-center gap-3 max-[400px]:ml-10 max-[400px]:mt-3  sm:top-1 lg:order-2">
                 <a href="index.php?page=create" type="button" class="group inline-flex items-center px-4 py-2 text-sm font-medium text-[#00bCF2] bg-transparent border border-[#00bCF2] rounded duration-500 hover:bg-[#00bCF2] hover:text-white focus:z-10 focus:ring-2 ">
                     Buat Laporan
                 </a>

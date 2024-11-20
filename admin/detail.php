@@ -8,8 +8,8 @@ $report = $report[0];
 ?>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
-    <div class="border-2 col-span-1 md:col-span-3 rounded-lg  border-gray-300 dark:border-gray-600 h-auto mb-4">
-        <div class="block h-full">
+    <div class="border-2 col-span-1 md:col-span-3 rounded-lg border-gray-300 dark:border-gray-600 h-auto mb-4">
+        <div class="block h-full ">
             <div class="max-w-full border border-gray-200 rounded-lg shadow h-full flex flex-col">
                 <img class="rounded-t-lg w-full h-48 object-cover" src="https://flowbite.com/docs/images/blog/image-1.jpg" alt="" />
                 <div class="p-5 flex-grow flex flex-col">

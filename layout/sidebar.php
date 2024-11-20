@@ -3,7 +3,7 @@
     <div class="overflow-y-auto mt-5 py-5 px-3 h-full bg-white">
         <!-- Menu (It's for mobile) -->
         <ul class="space-y-0.5 inline lg:hidden">
-            <li>
+            <li class="max-[400px]:mt-[3.5rem]">
                 <a href="index.php?page=dashboard" class="flex items-center p-2 text-base font-medium text-primary rounded-lg hover:bg-[#00bCF2] group transition duration-75">
                     <svg class="w-6 h-6 text-gray-800  dark:text-gray-600 group-hover:text-white transition duration-75" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
                         <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M20 6H10m0 0a2 2 0 1 0-4 0m4 0a2 2 0 1 1-4 0m0 0H4m16 6h-2m0 0a2 2 0 1 0-4 0m4 0a2 2 0 1 1-4 0m0 0H4m16 6H10m0 0a2 2 0 1 0-4 0m4 0a2 2 0 1 1-4 0m0 0H4" />

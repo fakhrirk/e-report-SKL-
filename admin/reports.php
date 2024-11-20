@@ -8,7 +8,7 @@ header('refresh:3;Content-Type: text/html; charset=UTF-8');
 
 <div class="grid grid-cols-3 md:grid-cols-1 gap-4 mb-4 sm:grid-cols-1 ">
     <!-- Main Content Cards (Left Side) -->
-    <div class="col-span-2  grid grid-cols-1 gap-4">
+    <div class="col-span-2  grid grid-cols-1 gap-4 max-[400px]:col-span-4 ">
         <!-- Card 1 -->
         <?php
         if (empty($reports)) : ?>

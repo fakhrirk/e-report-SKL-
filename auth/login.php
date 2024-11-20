@@ -14,12 +14,12 @@
 
 <body class="bg-gray-200 font-sans text-gray-700">
     <div class="container mx-auto p-8 flex">
-        <div class="max-w-md w-full mx-auto mt-[80px]">
+        <div class="max-w-md w-full mx-auto mt-[80px] max-[400px]:mt-[30px]">
             <div class="container flex flex-col justify-center items-center">
                 <span class="bg-gradient-to-tr text-transparent from-[#00bCF2] to-[#BAD80A] bg-clip-text">
-                    <h1 class="text-[50px] text-center font-bold ">FORUM WARGA</h1>
+                    <h1 class="text-[50px] text-center font-bold max-[400px]:text-[30px] ">FORUM WARGA</h1>
                 </span>
-                <h1 class="text-xl text-center mb-12 font-bold ">RW 03 | Desa Sukagiri</h1>
+                <h1 class="text-xl text-center mb-12 font-bold max-[400px]:text-[15px] ">RW 03 | Desa Sukagiri</h1>
             </div>
 
             <div class="bg-[#00bCF2] rounded-lg overflow-hidden shadow-2xl">

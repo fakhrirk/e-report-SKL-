@@ -10,7 +10,7 @@ $reports = query("SELECT reports.*, users.name FROM reports JOIN users ON users.
 ?>
 
 
-<div class="p-4">
+<div class="p-4 max-[400px]:mt-10">
    <div class="p-5">
       <div class="grid grid-cols-2 w-full gap-2" >
          <div class="flex items-center justify-center h-auto rounded bg-[#00bCF2] ">
